@@ -1,5 +1,5 @@
 {
-  "name": "backend-refactory",
+  "name": "refactory",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.16.10",
+    "@babel/core": "^7.16.12",
     "@babel/eslint-parser": "^7.16.5",
     "@babel/eslint-plugin": "^7.16.5",
     "@babel/plugin-syntax-class-properties": "^7.12.13",
